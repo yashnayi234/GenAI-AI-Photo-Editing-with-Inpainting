@@ -35,13 +35,6 @@ This project is a fun and creative AI-powered image editing tool that lets you *
 |---------|------|--------|
 | <img width="379" alt="Screenshot 2025-04-01 at 1 26 06 PM" src="https://github.com/user-attachments/assets/fb52df50-ebfd-4fd8-a503-b3f6c2708718" />| <img width="372" alt="Screenshot 2025-04-01 at 1 26 20 PM" src="https://github.com/user-attachments/assets/de2a35d2-bff2-4609-b73c-be177804730a" /> | <img width="372" alt="Screenshot 2025-04-01 at 1 26 28 PM" src="https://github.com/user-attachments/assets/1d37ed59-bfa6-4daf-9862-ce03d392877d" /> |
 
-## 📁 Project Structure
-📦 AI-Photo-Editor 
-  ├── starter.ipynb 
-  ├── app.py
-  ├── img
-  ├── README.md 
-  └── img
 ## ✨ Tips to Explore
 
 - Use **prompt engineering** to generate highly specific scenes.
